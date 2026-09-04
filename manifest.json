@@ -1,0 +1,20 @@
+{
+  "name": "My Routine 🎀",
+  "short_name": "My Routine",
+  "description": "My personal daily routine ✨",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff6fa",
+  "theme_color": "#fff6fa",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
